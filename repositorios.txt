@@ -1,6 +1,6 @@
-1 https://github.com/iadiak/sta08 
-2 https://github.com/IvanCorro/sta03_practica1
-3 - 
+1 - https://github.com/iadiak/sta08 
+2 - https://github.com/Fourcraft222/STA02
+3 - https://github.com/IvanCorro/sta03_practica1
 4 - https://github.com/oliviaaguado/practica1-sta.git
 5 - https://github.com/cubar10/practica1
 6 - 
@@ -9,3 +9,5 @@
 9 - 
 10 - 
 11 - 
+12 -
+13- 
