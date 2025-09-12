@@ -3,7 +3,7 @@
 3 - https://github.com/IvanCorro/sta03_practica1
 4 - https://github.com/oliviaaguado/practica1-sta.git
 5 - https://github.com/cubar10/practica1
-6 - 
+6 - https://github.com/aneliros/sta01 
 7 - 
 8 - 
 9 - 
